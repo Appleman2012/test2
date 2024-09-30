@@ -4,4 +4,4 @@
 
 [node name="mmb" type="AnimationPlayer" parent="."]
 
-[node name="LTAM beo" type="Node2D" parent="mmb"]
+[node name="qm ngu" type="AnimationPlayer" parent="mmb"]
