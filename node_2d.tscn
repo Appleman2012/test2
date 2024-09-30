@@ -3,3 +3,5 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="mmb" type="AnimationPlayer" parent="."]
+
+[node name="qm ngu" type="AnimationPlayer" parent="mmb"]
