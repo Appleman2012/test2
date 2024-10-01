@@ -1,7 +1,6 @@
 [gd_scene format=3 uid="uid://dh3inngjhllbe"]
 
 [node name="Node2D" type="Node2D"]
+position = Vector2(440, 204)
 
-[node name="mmb" type="AnimationPlayer" parent="."]
-
-[node name="LTAM ngu" type="AnimationPlayer" parent="mmb"]
+[node name="Area2D" type="Area2D" parent="."]
